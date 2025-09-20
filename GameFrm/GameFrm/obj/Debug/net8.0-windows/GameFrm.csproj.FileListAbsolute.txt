@@ -1,0 +1,17 @@
+C:\Users\Gamer User\source\repos\GameFrm\GameFrm\bin\Debug\net8.0-windows\GameFrm.exe
+C:\Users\Gamer User\source\repos\GameFrm\GameFrm\bin\Debug\net8.0-windows\GameFrm.deps.json
+C:\Users\Gamer User\source\repos\GameFrm\GameFrm\bin\Debug\net8.0-windows\GameFrm.runtimeconfig.json
+C:\Users\Gamer User\source\repos\GameFrm\GameFrm\bin\Debug\net8.0-windows\GameFrm.dll
+C:\Users\Gamer User\source\repos\GameFrm\GameFrm\bin\Debug\net8.0-windows\GameFrm.pdb
+C:\Users\Gamer User\source\repos\GameFrm\GameFrm\obj\Debug\net8.0-windows\GameFrm.Form1.resources
+C:\Users\Gamer User\source\repos\GameFrm\GameFrm\obj\Debug\net8.0-windows\GameFrm.csproj.GenerateResource.cache
+C:\Users\Gamer User\source\repos\GameFrm\GameFrm\obj\Debug\net8.0-windows\GameFrm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer User\source\repos\GameFrm\GameFrm\obj\Debug\net8.0-windows\GameFrm.AssemblyInfoInputs.cache
+C:\Users\Gamer User\source\repos\GameFrm\GameFrm\obj\Debug\net8.0-windows\GameFrm.AssemblyInfo.cs
+C:\Users\Gamer User\source\repos\GameFrm\GameFrm\obj\Debug\net8.0-windows\GameFrm.csproj.CoreCompileInputs.cache
+C:\Users\Gamer User\source\repos\GameFrm\GameFrm\obj\Debug\net8.0-windows\GameFrm.dll
+C:\Users\Gamer User\source\repos\GameFrm\GameFrm\obj\Debug\net8.0-windows\refint\GameFrm.dll
+C:\Users\Gamer User\source\repos\GameFrm\GameFrm\obj\Debug\net8.0-windows\GameFrm.pdb
+C:\Users\Gamer User\source\repos\GameFrm\GameFrm\obj\Debug\net8.0-windows\GameFrm.genruntimeconfig.cache
+C:\Users\Gamer User\source\repos\GameFrm\GameFrm\obj\Debug\net8.0-windows\ref\GameFrm.dll
+C:\Users\Gamer User\source\repos\GameFrm\GameFrm\obj\Debug\net8.0-windows\GameFrm.Properties.Resources.resources
